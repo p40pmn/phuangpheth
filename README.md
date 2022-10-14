@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @phuangpheth
-- 👀 I’m interested in Golang and Cloud computing.
+- 👀 I’m interested in Golang and cloud architect.
 - 🌱 I’m currently learning Golng
 
 <!---
